@@ -1,0 +1,12 @@
+header{
+    font-size: 48px;
+}
+.blue {
+    background: rgb(245, 232, 222);
+    padding: 50px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.119);
+    margin: 20px;
+}
+p{
+    padding: 20px;
+}
