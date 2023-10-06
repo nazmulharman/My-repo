@@ -3,11 +3,11 @@ header{
     padding: 20px 0px 0px 0px;
 }
 .blue {
-    background-image: url(git.png);
+    /* background-image: url(git.png);
     background-position: right;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     border-radius: 15px;
-    /* background: rgb(245, 232, 222); */
+    background: rgb(245, 232, 222);
     padding: 10px 50px 20px 50px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.119);
     margin: 20px10;
